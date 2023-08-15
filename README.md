@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smit Gaikwad</h1>
-<h3 align="center">A aspiring data scientist from India</h3>
+<h3 align="center">An aspiring data scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smitdilipgaikwad&label=Profile%20views&color=0e75b6&style=flat" alt="smitdilipgaikwad" /> </p>
 
