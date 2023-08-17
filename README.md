@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Smit Gaikwad and I'm a programmer, from India</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="D:\\srccode\\github\\readme\\snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
